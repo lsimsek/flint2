@@ -12,6 +12,7 @@ func main() {
 
 	if err := app.Run(os.Args); err != nil {
 		fmt.Println(err)
+        PrintoutSystemln("first_comment");
 		os.Exit(1)
 	}
 }
