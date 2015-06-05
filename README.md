@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flint
 
 Check your project for common sources of contributor friction.
@@ -142,3 +143,6 @@ Copyright 2014 [Wynn Netherland][pengwynn].
 [choose]: http://choosealicense.com/
 [RDD]: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 [releases]: https://github.com/pengwynn/flint/releases
+=======
+# flint2
+>>>>>>> 0909c714cfa1a585ac0dae6fd5d5d2cff3451b5e
