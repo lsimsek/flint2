@@ -6,3 +6,4 @@ gox \
   -os="darwin linux windows" \
   ./...
 echo "Built $(go run flint.go --version)"
+\\ check if go is installed
